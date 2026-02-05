@@ -5,10 +5,15 @@ Repositorio del Manifiesto Tecnoperonista para la reconstrucción nacional. Cola
 
 ## Motivación
 
-El campo tecnológico de las no-derechas en Argentina se encuentra diseminado entre semiólogos de las nuevas tecnologías de la comunicación, especialistas en Cs de la Computación e Ingenierías, tecnófilos, divulgadores tecnológicos y también, comunicadores y politólogos tradicionales.
+El campo tecnológico de las no-derechas en Argentina se encuentra diseminado entre:
+- semiólogos de las nuevas tecnologías de la comunicación
+- especialistas en Cs de la Computación e Ingenierías
+- divulgadores tecnológicos
+- tecnófilos independientes
+- por último, comunicadores y politólogos tradicionales
 
 
-El objetivo de este repositorio es impulsar la discusión y producción colaborativa de discursos sobre una estrategia digital para humanos.
+El objetivo de este repositorio es impulsar la discusión y producción colaborativa entre estos grupos, para imaginar una estrategia digital para humanos en el siglo XXI.
 
 
 ## Cómo colaborar
