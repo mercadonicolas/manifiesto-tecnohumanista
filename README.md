@@ -40,4 +40,4 @@ Para pedir acceso para contribuir, [hacé clic acá](https://github.com/mercadon
 # El Manifiesto
 
 1. El peronismo como corriente política debe articular el desarrollo tecnológico y el desarrollo humano para garantizar el futuro de la nación
-2. 
+2. Todo futuro tecnológico para humanos requiere del reconocimiento de la preexistencia de los pueblos originarios
